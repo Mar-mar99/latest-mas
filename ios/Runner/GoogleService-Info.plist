@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871347501775-cprl4329ihn07osk6vcen9bnldgrtklk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871347501775-cprl4329ihn07osk6vcen9bnldgrtklk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>871347501775-88khbl73btp5h7amk10uv0a5nl6i2qq6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqz_0Ve1E0DQOrh8T8pmKIsPUQmggX58k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871347501775</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jammal.masbar</string>
+	<key>PROJECT_ID</key>
+	<string>masbar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>masbar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871347501775:ios:501941c1b2228a989115ba</string>
+	<key>DATABASE_URL</key>
+	<string>https://masbar.firebaseio.com</string>
+</dict>
+</plist>

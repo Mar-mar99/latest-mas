@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "871347501775",
+    "firebase_url": "https://masbar.firebaseio.com",
+    "project_id": "masbar",
+    "storage_bucket": "masbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871347501775:android:a18337b19db9f5249115ba",
+        "android_client_info": {
+          "package_name": "com.jammal.masbar.masbar_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871347501775-ah7qtru30rt2kea079s76uf60t31848i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jammal.masbar.masbar_dev",
+            "certificate_hash": "22b9ecb63ce952e9457e33e950e61acab372cd09"
+          }
+        },
+        {
+          "client_id": "871347501775-lmqn79ksq9cde0uqmovukqnhctqjahon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jammal.masbar.masbar_dev",
+            "certificate_hash": "4fe5dbb71409e4570f609db424871513ce83a756"
+          }
+        },
+        {
+          "client_id": "871347501775-nd3krcj0ok154q2rbqjln3vq1287asaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jammal.masbar.masbar_dev",
+            "certificate_hash": "de6c47dae7ded6f868eb7f4f231831610d14e808"
+          }
+        },
+        {
+          "client_id": "871347501775-te6r52v58a1d6pu2an70eei93fqdgugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAs6P4kSrPU_iUPktcxWFjyjMghmG4HkY"
+        },
+        {
+          "current_key": "AIzaSyC71xY0NIcMH3o0tyWOKPcN68-yurgYc-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871347501775-1g4othr0d1mst482euqp4nom59rale5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871347501775-15jnqv4qkhn8smpd84iod2faepi1e9lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masbar.ios",
+                "app_store_id": "1661166639"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871347501775:android:8e9004707b18c8e39115ba",
+        "android_client_info": {
+          "package_name": "com.masbar.masbar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871347501775-te6r52v58a1d6pu2an70eei93fqdgugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAs6P4kSrPU_iUPktcxWFjyjMghmG4HkY"
+        },
+        {
+          "current_key": "AIzaSyC71xY0NIcMH3o0tyWOKPcN68-yurgYc-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871347501775-1g4othr0d1mst482euqp4nom59rale5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871347501775-15jnqv4qkhn8smpd84iod2faepi1e9lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masbar.ios",
+                "app_store_id": "1661166639"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871347501775:android:11a1f6e827186b8f9115ba",
+        "android_client_info": {
+          "package_name": "com.masbar.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871347501775-te6r52v58a1d6pu2an70eei93fqdgugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAs6P4kSrPU_iUPktcxWFjyjMghmG4HkY"
+        },
+        {
+          "current_key": "AIzaSyC71xY0NIcMH3o0tyWOKPcN68-yurgYc-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871347501775-1g4othr0d1mst482euqp4nom59rale5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871347501775-15jnqv4qkhn8smpd84iod2faepi1e9lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masbar.ios",
+                "app_store_id": "1661166639"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871347501775:android:191d1e73ec8aa6659115ba",
+        "android_client_info": {
+          "package_name": "com.masbar.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871347501775-88khbl73btp5h7amk10uv0a5nl6i2qq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masbar.user",
+            "certificate_hash": "571607a361703044e189db8f53c60319a0867a38"
+          }
+        },
+        {
+          "client_id": "871347501775-sh7b6bap69rfbdva51jenscilvf1kthr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masbar.user",
+            "certificate_hash": "85bf045c7f5a6adebde7e7dbb35618da3af75df1"
+          }
+        },
+        {
+          "client_id": "871347501775-te6r52v58a1d6pu2an70eei93fqdgugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAs6P4kSrPU_iUPktcxWFjyjMghmG4HkY"
+        },
+        {
+          "current_key": "AIzaSyC71xY0NIcMH3o0tyWOKPcN68-yurgYc-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871347501775-1g4othr0d1mst482euqp4nom59rale5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871347501775-15jnqv4qkhn8smpd84iod2faepi1e9lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masbar.ios",
+                "app_store_id": "1661166639"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
